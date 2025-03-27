@@ -1,35 +1,3 @@
-<style>
-h1, h2, h3, h4, h5, h6 {
-  margin: 24px 0 10px 0;
-}
-p {
-    text-align: justify;
-}
-.text-center {
-    text-align: center;
-}
-.text-right {
-    text-align: right;
-}
-details {
-    list-style: none;
-}
-details summary {
-    cursor: pointer;
-    display: list-item;
-}
-details summary h1, details summary h2, details summary h3, details summary h4, details summary h5, details summary h6 {
-    display: inline-block;
-}
-details summary ~ * {
-    transition: 0.2s linear;
-    transform: translate3d(0,-15px,0);
-}
-details[open] summary ~ * {
-    transform: translate3d(0,0,0);
-}
-</style>
-
 ## Privacy Policy of *Pantrify*
 
 This Application collects some Personal Data from its Users.
