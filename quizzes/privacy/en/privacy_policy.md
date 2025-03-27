@@ -8,6 +8,7 @@ These apps collects some Personal Data from its Users.
 ### Policy summary
 
 </div>
+
 ---
 
 #### Personal Data collected for the following purposes and using the following services:
@@ -44,6 +45,7 @@ Gartorware
 ### Full policy
 
 </div>
+
 ---
 
 #### Types of Data collected
