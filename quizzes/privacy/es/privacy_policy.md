@@ -4,7 +4,9 @@ Estas aplicación necesita recopilar algunos datos para su funcionamiento.
 
 ---
 <div markdown="1" class="text-center section-header">
+
 ### Resumen de la política de privacidad
+
 </div>
 ---
 
@@ -36,7 +38,9 @@ Gartorware
 
 ---
 <div markdown="1" class="text-center section-header">
+
 ### Política de privacidad completa
+
 </div>
 ---
 

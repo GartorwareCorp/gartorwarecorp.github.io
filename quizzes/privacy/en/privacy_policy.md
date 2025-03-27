@@ -4,7 +4,9 @@ These apps collects some Personal Data from its Users.
 
 ---
 <div markdown="1" class="text-center section-header">
+
 ### Policy summary
+
 </div>
 ---
 
@@ -38,7 +40,9 @@ Gartorware
 
 ---
 <div markdown="1" class="text-center section-header">
+
 ### Full policy
+
 </div>
 ---
 
