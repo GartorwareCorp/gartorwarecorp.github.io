@@ -3,9 +3,11 @@
 This Application collects some Personal Data from its Users.
 
 ---
+
 <div markdown="1" class="text-center section-header">
 ### Policy summary
 </div>
+
 ---
 
 #### Personal Data collected for the following purposes and using the following services:
@@ -85,18 +87,26 @@ Contact form
 
 <details open markdown="1">
 <summary>
+
 #### Contact information
+
 </summary>
+
 Gartorware
 **Owner contact email**: gartorware[arroba]gmail.com
+
 </details>
 
 ---
 
 ---
+
 <div markdown="1" class="text-center section-header">
+
 ### Full policy
+
 </div>
+
 ---
 
 #### Types of Data collected
@@ -196,8 +206,10 @@ Personal Data is collected for the following purposes and using the following se
 
 <details markdown="1">
 <summary>
+
 ##### Access to third party accounts
 </summary>
+
 This type of service allows this Application to access Data from your account on a third party service and perform actions with it.
 These services are not activated automatically, but require explicit authorization by the User.
 
@@ -214,7 +226,9 @@ Place of processing: US – [Privacy Policy](https://twitter.com/privacy)
 
 <details markdown="1">
 <summary>
+
 ##### Contacting the User
+
 </summary>
 
 ###### Contact form (This Application)
@@ -224,7 +238,9 @@ Personal Data collected: email address, first name and last name.
 
 <details markdown="1">
 <summary>
+
 ##### Analytics
+
 </summary>
 The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
 
@@ -239,7 +255,9 @@ Place of processing: USA – [Privacy Policy](https://www.google.com/intl/en/pri
 
 <details markdown="1">
 <summary>
+
 ##### Managing contacts and sending messages
+
 </summary>
 This type of service makes it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User.
 These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.
@@ -257,7 +275,9 @@ Place of processing: USA – [Política de privacidad](https://www.google.com/in
 
 <details markdown="1">
 <summary>
+
 ##### Hosting and backend infrastructure
+
 </summary>
 This type of service has the purpose of hosting data and files that enable this Application to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of this Application. Some of these services work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
 
@@ -284,7 +304,9 @@ Place of processing: USA – [Privacy Policy](https://www.google.com/intl/en/pri
 
 <details markdown="1">
 <summary>
+
 ##### Interaction with external social networks and platforms
+
 </summary>
 This type of service allows interaction with social networks or other external platforms directly from the pages of this Application.
 The interaction and information obtained through this Application are always subject to the User’s privacy settings for each social network.
@@ -303,7 +325,9 @@ Place of processing: US – [Privacy Policy](https://twitter.com/privacy)
 
 <details markdown="1">
 <summary>
+
 ##### Infrastructure monitoring
+
 </summary>
 This type of service allows this Application to monitor the use and behavior of its components so its performance, operation, maintenance and troubleshooting can be improved.
 Which Personal Data are processed depends on the characteristics and mode of implementation of these services, whose function is to filter the activities of this Application.
@@ -321,7 +345,9 @@ Place of processing: USA – [Privacy Policy](https://www.google.com/intl/en/pri
 
 <details markdown="1">
 <summary>
+
 ##### Permisos sobre dispositivos para acceder a Datos Personales
+
 </summary>
 This Application requests certain permissions from Users that allow it to access the User's device Data as described below.
 
@@ -332,7 +358,9 @@ Personal Data collected: Camera permission, Storage permission.
 
 <details markdown="1">
 <summary>
+
 ##### Advertising
+
 </summary>
 This type of service allows User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this Application, possibly based on User interests.
 This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.
@@ -360,7 +388,9 @@ Lugar de tratamiento: US – [Privacy Policy](https://www.appodeal.com/privacy-p
 
 <details markdown="1">
 <summary>
+
 ##### Handling payments
+
 </summary>
 Unless otherwise specified, this Application processes any payments by credit card, bank transfer or other means via external payment service providers. In general and unless where otherwise stated, Users are requested to provide their payment details and personal information directly to such payment service providers. This Application isn't involved in the collection and processing of such information: instead, it will only receive a notification by the relevant payment service provider as to whether payment has been successfully completed.
 
@@ -383,7 +413,9 @@ Category of personal data collected according to CCPA: internet information.
 
 <details markdown="1">
 <summary>
+
 ##### Registration and authentication
+
 </summary>
 By registering or authenticating, Users allow this Application to identify them and give them access to dedicated services.
 Depending on what is described below, third parties may provide registration and authentication services. In this case, this Application will be able to access some Data, stored by these third party services, for registration or identification purposes.
@@ -411,7 +443,9 @@ Place of processing: US – [Privacy Policy](https://twitter.com/privacy)
 
 <details markdown="1">
 <summary>
+
 ##### Content performance and features testing (A/B testing)
+
 </summary>
 The services contained in this section allow the Owner to track and analyze the User response concerning web traffic or behavior regarding changes to the structure, text or any other component of this Application.
 
@@ -474,7 +508,9 @@ The Owner reserves the right to make changes to this privacy policy at any time 
 
 <details markdown="1">
 <summary>
+
 #### Data Controller and Owner
+
 </summary>
 
 José Domingo García Torrejón
@@ -487,7 +523,9 @@ C/ Castilla, 86
 
 <details open markdown="1">
 <summary>
+
 #### Definitions and legal references
+
 </summary>
 
 ###### Personal Data (or Data)
@@ -521,5 +559,7 @@ Small piece of data stored in the User's device.
 ---
 
 <p markdown="1" class="text-right">
+
 *Latest update: March 18, 2020 (20200318140040)*
+
 </p>
