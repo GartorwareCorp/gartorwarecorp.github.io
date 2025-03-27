@@ -1,53 +1,3 @@
-<style>
-h1 {
-    font-size: 42px;
-}
-h2 {
-    font-size: 32px;
-}
-h3{
-    font-size: 24px;
-}
-h4{
-    font-size: 20px;
-}
-h5{
-    font-size: 18px;
-}
-h6{
-    font-size: 16px;
-}
-p {
-    text-align: justify;
-}
-.text-center { 
-    text-align: center; 
-}
-.text-right {
-    text-align: right;
-}
-.section-header {
-    font-variant: small-caps;
-}
-details {
-    list-style: none;
-}
-details summary { 
-    cursor: pointer;
-    display: list-item; 
-}
-details summary h1, details summary h2, details summary h3, details summary h4, details summary h5, details summary h6 {
-    display: inline-block;
-}
-details summary ~ * {
-    transition: 0.2s linear;
-    transform: translate3d(0,-15px,0);
-}
-details[open] summary ~ * {
-    transform: translate3d(0,0,0);
-}
-</style>
-
 ## Privacy Policy of *quizzes* apps
 
 These apps collects some Personal Data from its Users.
@@ -75,9 +25,12 @@ Appodeal
 
 <details open markdown="1">
 <summary>
+
 #### Contact information
 </summary>
+
 Gartorware
+
 **Owner contact email**: gartorware[arroba]gmail.com
 </details>
 
@@ -155,6 +108,7 @@ Personal Data is collected for the following purposes and using the following se
 
 <details markdown="1">
 <summary>
+
 ##### Advertising
 </summary>
 This type of service allows User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this Application, possibly based on User interests.
@@ -244,6 +198,7 @@ The Owner reserves the right to make changes to this privacy policy at any time 
 
 <details markdown="1">
 <summary>
+
 #### Data Controller and Owner
 </summary>
 
@@ -257,6 +212,7 @@ C/ Castilla, 86
 
 <details open markdown="1">
 <summary>
+
 #### Definitions and legal references
 </summary>
 
@@ -291,5 +247,7 @@ Small piece of data stored in the User's device.
 ---
 
 <p markdown="1" class="text-right">
+
 *Latest update: May 23, 2018 (20180523182235)*
+
 </p>

@@ -1,53 +1,3 @@
-<style>
-h1 {
-    font-size: 42px;
-}
-h2 {
-    font-size: 32px;
-}
-h3{
-    font-size: 24px;
-}
-h4{
-    font-size: 20px;
-}
-h5{
-    font-size: 18px;
-}
-h6{
-    font-size: 16px;
-}
-p {
-    text-align: justify;
-}
-.text-center { 
-    text-align: center; 
-}
-.text-right {
-    text-align: right;
-}
-.section-header {
-    font-variant: small-caps;
-}
-details {
-    list-style: none;
-}
-details summary { 
-    cursor: pointer;
-    display: list-item; 
-}
-details summary h1, details summary h2, details summary h3, details summary h4, details summary h5, details summary h6 {
-    display: inline-block;
-}
-details summary ~ * {
-    transition: 0.2s linear;
-    transform: translate3d(0,-15px,0);
-}
-details[open] summary ~ * {
-    transform: translate3d(0,0,0);
-}
-</style>
-
 ## Política de privacidad de las aplicaciones *quizzes*
 
 Estas aplicación necesita recopilar algunos datos para su funcionamiento.
@@ -75,6 +25,7 @@ Appodeal
 
 <details open markdown="1">
 <summary>
+
 #### Datos de contacto
 </summary>
 Gartorware
@@ -155,6 +106,7 @@ Se recogen Datos Personales para las siguientes finalidades y utilizando los sig
 
 <details markdown="1">
 <summary>
+
 ##### Publicidad
 </summary>
 Este tipo de servicios permiten utilizar los Datos del Usuario para comunicaciones comerciales bajo diversas formas publicitarias, tales como banners, si bien siempre en relación con los intereses del Usuario.
@@ -243,12 +195,14 @@ El Titular se reserva el derecho de modificar esta Política de Privacidad en cu
 
 <details markdown="1">
 <summary>
+
 #### Responsable de Tratamiento de los Datos y Titular
 </summary>
 
 José Domingo García Torrejón
 C/ Castilla, 86
 41010 Sevilla España
+
 **Correo electrónico de contacto del Titular**: gartorware[arroba]gmail.com
 </details>
 
@@ -256,6 +210,7 @@ C/ Castilla, 86
 
 <details open markdown="1">
 <summary>
+
 #### Definiciones y referencias legales
 </summary>
 
@@ -290,5 +245,7 @@ Pequeña unidad de datos almacenada en el dispositivo del Usuario.
 ---
 
 <p markdown="1" class="text-right">
+
 *Última revisión: 23 Mayo 2018 (20180523182235)*
+
 </p>

@@ -5,7 +5,9 @@ This Application collects some Personal Data from its Users.
 ---
 
 <div markdown="1" class="text-center section-header">
+
 ### Policy summary
+
 </div>
 
 ---
@@ -516,6 +518,7 @@ The Owner reserves the right to make changes to this privacy policy at any time 
 José Domingo García Torrejón
 C/ Castilla, 86
 41010 Sevilla España
+
 **Owner contact email**: gartorware[arroba]gmail.com
 </details>
 

@@ -1,42 +1,12 @@
-<style>
-h1, h2, h3, h4, h5, h6 {
-  margin: 24px 0 10px 0;
-}
-p {
-    text-align: justify;
-}
-.text-center { 
-    text-align: center;
-}
-.text-right {
-    text-align: right;
-}
-details {
-    list-style: none;
-}
-details summary {
-    cursor: pointer;
-    display: list-item;
-}
-details summary h1, details summary h2, details summary h3, details summary h4, details summary h5, details summary h6 {
-    display: inline-block;
-}
-details summary ~ * {
-    transition: 0.2s linear;
-    transform: translate3d(0,-15px,0);
-}
-details[open] summary ~ * {
-    transform: translate3d(0,0,0);
-}
-</style>
-
 ## Política de privacidad de *Pantrify*
 
 Esta aplicación necesita recopilar algunos datos para su funcionamiento.
 
 ---
 <div markdown="1" class="text-center section-header">
+
 ### Resumen de la política de privacidad
+
 </div>
 ---
 
@@ -118,18 +88,26 @@ Formulario de contacto
 
 <details open markdown="1">
 <summary>
+
 #### Datos de contacto
+
 </summary>
+
 Gartorware
 **Correo electrónico de contacto del Titular**: gartorware[arroba]gmail.com
+
 </details>
 
 ---
 
 ---
+
 <div markdown="1" class="text-center section-header">
+
 ### Política de privacidad completa
+
 </div>
+
 ---
 
 #### Clases de datos recogidos
@@ -226,6 +204,7 @@ Se recogen Datos Personales para las siguientes finalidades y utilizando los sig
 
 <details markdown="1">
 <summary>
+
 ##### Acceso a las cuentas de servicios de terceros
 </summary>
 Este tipo de servicios permiten a esta Aplicación acceder a los Datos de tus cuentas en servicios de terceros y realizar accciones con estos.
@@ -244,6 +223,7 @@ Lugar de tratamiento: EE.UU. – [Política de privacidad](https://twitter.com/p
 
 <details markdown="1">
 <summary>
+
 ##### Contactar con el Usuario
 </summary>
 
@@ -254,6 +234,7 @@ Datos Personales recogidos: apellido(s), dirección de correo electrónico, nomb
 
 <details markdown="1">
 <summary>
+
 ##### Estadísticas
 </summary>
 Los servicios contenidos en esta sección permiten al Titular monitorizar y analizar el tráfico web y pueden ser utilizados para rastrear el comportamiento del Usuario.
@@ -269,6 +250,7 @@ Lugar de tratamiento: EE.UU. – [Política de privacidad](https://www.google.co
 
 <details markdown="1">
 <summary>
+
 ##### Gestión de contactos y envío de mensajes
 </summary>
 Este tipo de servicios permiten gestionar una base de datos de direcciones de correo electrónico, números de teléfono u otra información de contacto para comunicarse con el Usuario.
@@ -287,6 +269,7 @@ Lugar de tratamiento: EE.UU. – [Política de privacidad](https://www.google.co
 
 <details markdown="1">
 <summary>
+
 ##### Hosting e infrastructura de backend
 </summary>
 Este tipo de servicios tienen por finalidad el alojamiento de datos y archivos para permitir que esta Aplicación funcione y sea distribuida, así como para proporcionar una infrastructura lista para operar que permita poner en marcha diversas funcionalidades o partes de esta Aplicación.
@@ -315,6 +298,7 @@ Lugar de tratamiento: EE.UU. – [Política de privacidad](https://www.google.co
 
 <details markdown="1">
 <summary>
+
 ##### Interacción con redes sociales y plataformas externas
 </summary>
 Este tipo de servicios permiten interactuar con redes sociales u otras plataformas externas directamente desde las páginas de esta Aplicación.
@@ -334,6 +318,7 @@ Lugar de tratamiento: EE.UU. – [Política de privacidad](https://twitter.com/p
 
 <details markdown="1">
 <summary>
+
 ##### Monitorización de la infrastructura
 </summary>
 Este tipo de servicios permiten a esta Aplicación monitorizar el uso y el comportamiento de los componentes de ésta, para permitir la mejora de su rendimiento y funcionalidad, su mantenimiento o la resolución de problemas.
@@ -352,6 +337,7 @@ Lugar de tratamiento: EE.UU. – [Política de privacidad](https://www.google.co
 
 <details markdown="1">
 <summary>
+
 ##### Permisos sobre dispositivos para acceder a Datos Personales
 </summary>
 Esta Aplicación solicita determinados permisos a los Usuarios, que le permiten acceder al dispositivo del Usuario tal como se describe a continuación.
@@ -363,6 +349,7 @@ Datos Personales recogidos: Permiso de almacenamiento, Permiso para la cámara.
 
 <details markdown="1">
 <summary>
+
 ##### Publicidad
 </summary>
 Este tipo de servicios permiten utilizar los Datos del Usuario para comunicaciones comerciales bajo diversas formas publicitarias, tales como banners, si bien siempre en relación con los intereses del Usuario.
@@ -391,6 +378,7 @@ Lugar de tratamiento: EE.UU. – [Política de privacidad](https://www.appodeal.
 
 <details markdown="1">
 <summary>
+
 ##### Gestión de pagos
 </summary>
 Los servicios de gestión de pagos permiten a esta Aplicación procesar pagos por tarjeta de crédito, transferencia bancaria o por otros medios. A fin de garantizar una mayor seguridad, esta Aplicación sólo comparte con los intermediarios financieros que gestionan este sistema de pago la información necesaria para realizar la transacción.
@@ -415,6 +403,7 @@ Categoría de datos personales recogidos con arreglo a la CCPA: internet informa
 
 <details markdown="1">
 <summary>
+
 ##### Registro y autenticación
 </summary>
 Al registrarse o autenticarse, el Usuario permite que esta Aplicación le identifique y le dé acceso a los servicios dedicados.
@@ -443,6 +432,7 @@ Lugar de tratamiento: EE.UU. – [Política de privacidad](https://twitter.com/p
 
 <details markdown="1">
 <summary>
+
 ##### Test de rendimiento de contenidos y funcionalidades (A/B testing)
 </summary>
 Los servicios contenidos en esta sección permiten al Titular rastrear y analizar la respuesta del Usuario en términos de tráfico web o comportamiento, en relación con las modificaciones de la estructura, del texto o de cualquier otro componente de esta Aplicación.
@@ -505,12 +495,14 @@ El Titular se reserva el derecho de modificar esta Política de Privacidad en cu
 
 <details markdown="1">
 <summary>
+
 #### Responsable de Tratamiento de los Datos y Titular
 </summary>
 
 José Domingo García Torrejón
 C/ Castilla, 86
 41010 Sevilla España
+
 **Correo electrónico de contacto del Titular**: gartorware[arroba]gmail.com
 </details>
 
@@ -518,6 +510,7 @@ C/ Castilla, 86
 
 <details open markdown="1">
 <summary>
+
 #### Definiciones y referencias legales
 </summary>
 
@@ -552,5 +545,7 @@ Pequeña unidad de datos almacenada en el dispositivo del Usuario.
 ---
 
 <p markdown="1" class="text-right">
+
 *Última revisión: 18 marzo 2020 (20200318140040)*
+
 </p>
